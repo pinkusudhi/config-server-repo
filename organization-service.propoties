@@ -10,5 +10,7 @@ spring.jpa.show-sql=true
 #EUREKA CONFIGURATION
 eureka.instance.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
 
+spring.boot.message=this is organaization service
+
 
 
